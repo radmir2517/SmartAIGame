@@ -15,3 +15,4 @@
 
 
 ![Боевой маг](https://i.imgur.com/JAurcR0.gif)
+![Описание вашего GIF]([ССЫЛКА_НА_ВАШ_GIF](https://i.imgur.com/JAurcR0.gif))
